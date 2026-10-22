@@ -1,6 +1,6 @@
-# Nước sạch tại nhà
+# Điện nước tại nhà
 
-Hướng dẫn chọn và dùng thiết bị lọc nước theo từng tình huống, có ghi nguồn rõ ràng.
+Hướng dẫn điện, nước cho gia đình và nhà trọ: chọn máy lọc nước, tính tiền điện đúng luật. Có ghi nguồn từng bài.
 
 Xem trang: https://tuancun124-cmyk.github.io/nuoc-sach-tai-nha/
 
